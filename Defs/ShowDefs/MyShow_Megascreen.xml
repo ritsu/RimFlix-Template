@@ -35,7 +35,7 @@
       </li>
       <li>
         <!-- This is a link to Shows/MyShow/Megascreen_MyShow_01.png -->
-        <texPath>Shows/HaruhiDance/Megascreen_MyShow_01</texPath>
+        <texPath>Shows/MyShow/Megascreen_MyShow_01</texPath>
         <graphicClass>Graphic_Single</graphicClass>
       </li>
       <!-- Add more frames as required -->
