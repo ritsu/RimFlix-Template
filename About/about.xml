@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+    <!-- Name of your mod -->
+    <name>RimFlix - My Shows, Season 1</name>
+
+    <!-- Name of author -->
+    <author>MyName</author>
+    
+    <!-- Current version of RimWorld -->
+    <supportedVersions>
+        <li>1.0</li>
+    </supportedVersions>
+    
+    <!-- Description of your shows -->
+    <description>
+        Some shows created by me.
+        Remember to load this after RimFlix.
+    </description>
+    
+</ModMetaData>
