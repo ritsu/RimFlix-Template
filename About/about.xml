@@ -8,10 +8,28 @@
     <!-- Name of author -->
     <author>MyName</author>
     
-    <!-- Current version of RimWorld -->
+    <!-- Supported versions of RimWorld, do not change -->
     <supportedVersions>
         <li>1.0</li>
+        <li>1.1</li>
     </supportedVersions>
+    
+    <!-- Unique name for your show mod -->
+    <packageId>YourName.RimFlix.YourShow</packageId>
+    
+    <!-- RimFlix dependency, do not change -->
+    <modDependencies>
+        <li>
+            <packageId>aznplucky.RimFlix</packageId>
+            <displayName>RimFlix</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1685381492</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    
+    <!-- Dependency order, do not change -->
+    <loadAfter>
+        <li>aznplucky.RimFlix</li>
+    </loadAfter>
     
     <!-- Description of your shows -->
     <description>
